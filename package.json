@@ -1,0 +1,24 @@
+{
+  "name": "the-best-library-in-the-world",
+  "version": "1.0.0",
+  "description": "The best library in the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyesepeasoderuben/the-best-library-in-the-world.git"
+  },
+  "keywords": [
+    "best",
+    "library",
+    "world"
+  ],
+  "author": "Rubén Bernal Cervigón <soyesepeasoderuben@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyesepeasoderuben/the-best-library-in-the-world/issues"
+  },
+  "homepage": "https://github.com/soyesepeasoderuben/the-best-library-in-the-world#readme"
+}
